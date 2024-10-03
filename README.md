@@ -31,10 +31,14 @@ de aprender y mejorar.
 Planos realizados en Tekla Structures
 
 <p align="center">
-<img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
-<img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
-<img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
-<img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
+<img src="build\img\3d.png" width="100%" height="70%">
+<img src="build\img\det1.PNG" width="100%" height="70%">
+<img src="build\img\det2.PNG" width="100%" height="70%">
+<img src="build\img\det3.PNG" width="100%" height="70%">
+<img src="build\img\det4.PNG" width="100%" height="70%">
+<img src="build\img\det5.PNG" width="100%" height="70%">
+<img src="build\img\det6.PNG" width="100%" height="70%">
+<img src="build\img\det7.PNG" width="100%" height="70%">
 <img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
   
 </p>
