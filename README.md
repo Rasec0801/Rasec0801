@@ -1,7 +1,4 @@
 <center><span style="font-size: 40px; color: #000080;"><b>CESAR GUILLERMO AVILA GUERRERO</b></span></center>
-
-<center><span style="font-size: 20px;"><b>PROYECTOS REALIZADOS</b></span></center>
-
 ---
 
 
@@ -25,7 +22,7 @@ de aprender y mejorar.
 
 
 
-
+<center><span style="font-size: 20px;"><b>PROYECTOS REALIZADOS</b></span></center>
 
 
 
