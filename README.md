@@ -51,41 +51,8 @@ Detalles Estructurales realizados en Revit de diversos proyectos
 <img src="assets\img\detalle 8.png" width="100%" height="100%">
 </p>
 
-## Apuntes de Ingeniería Estructural
 
-Apuntes realizados en una pizarra digital para el uso académico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6976295315830149120-MzfP?utm_source=share&utm_medium=member_desktop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-puentes-activity-6955125070553874432-EMKT?utm_source=share&utm_medium=member_desktop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6945123343889035264-A1zj?utm_source=share&utm_medium=member_desktop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_design-concrete-ingeniera-activity-6979090258873171968-rfVN?utm_source=share&utm_medium=member_desktop)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/MConten.pdf)
-
-<p align="center">
-<img src="assets\img\Apuntes Estruc.png" width="100%" height="100%">
-</p>
-
-<br>
-<br>
-
-<p align="center">
-<img src="assets\img\pandas logo.png" width="9.4%" height="10%">
-<img src="assets\img\matplotlib.png" width="10.5%" height="10%">
-<img src="assets\img\numpy logo.png" width="9.5%" height="10%">
-<img src="assets\img\plotly logo.png" width="8.6%" height="10%">
-<img src="assets\img\seaborn logo.png" width="11%" height="10%">
-<img src="assets\img\scipy logo.png" width="8%" height="10%">
-<img src="assets\img\qt logo.png" width="2.9%" height="10%">
-<img src="assets\img\opensees logo.png" width="11.5%" height="10%">
-<img src="assets\img\sympy logo.png" width="9.7%" height="10%">
-<img src="assets\img\streamlit logo.png" width="10.5%" height="10%">
-<img src="assets\img\opencv logo.png" width="9.4%" height="10%">
-<img src="assets\img\tf logo.png" width="11%" height="10%">
-<img src="assets\img\keras logo.png" width="8.7%" height="10%">
-<img src="assets\img\sl logo.png" width="6.8%" height="10%">
-<img src="assets\img\pytorch logo.png" width="9.4%" height="10%">
-</p>
 
 ---
 
-<center> © 2023 Luis Maldonado de la Torre </center>
+<center> © 2024 Cesar Guillermo Avila Guerrero </center>
