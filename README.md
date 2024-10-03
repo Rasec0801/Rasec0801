@@ -5,10 +5,6 @@
 ---
 
 
-Una de las ventajas más significativas para los ingenieros estructurales que poseen habilidades en programación es la capacidad de optimizar tanto el tiempo como la precisión en sus diseños.
-
-Mediante la integración de técnicas de programación, es posible automatizar múltiples procesos, reduciendo así el tiempo invertido en tareas repetitivas y minimizando la probabilidad de errores humanos. Esta automatización no solo mejora la eficiencia, sino que también permite a los ingenieros dedicar más tiempo a aspectos críticos del diseño, análisis y optimización estructural.
-
 Soy estudiante de décimo ciclo de la carrera de Ingeniería Civil en la Universidad Peruana de Ciencias Aplicadas, posicionado en el tercio superior de mi promoción. Mi experiencia en el sector público incluye un desempeño de 3 meses como asistente de ingeniería, donde he demostrado habilidades técnicas y de gestión. Manejo diversos softwares especializados como Ms Project, Primavera P6, Ms Office, AutoCAD, Revit, Tekla Structures, SAP2000 y ETABS, y tengo conocimientos en Lean Construction para optimizar procesos en obras. Además, cuento con un nivel intermedio de inglés. Me distingo por mi proactividad, compromiso, capacidad de trabajo en equipo, orientación a resultados y deseo constante de aprender y mejorar.
 
 
