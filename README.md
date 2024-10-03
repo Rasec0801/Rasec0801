@@ -5,15 +5,12 @@
 ---
 
 <p align="center">
-  
 <img src="build\img\autocad logo1.png" width="6.65%" height="10%">
 <img src="build\img\revit logo.png" width="7.6%" height="10%">
 <img src="build\img\tekla.png" width="6%" height="5%">
 <img src="build\img\etabs logo.png" width="6%" height="10%">
 <img src="build\img\sap2000 logo.png" width="6%" height="10%">
 <img src="build\img\python logo.png" width="6%" height="10%">
-
-
 </p>
 
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%">
