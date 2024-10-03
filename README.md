@@ -30,9 +30,8 @@ de aprender y mejorar.
 
 Planos realizados en Tekla Structures
 
-[![Facebook](https://img.shields.io/badge/GoogleDrive-Temario_PDF-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/file/d/1EMGVSoM2K8SJGKE4MJ2MZ2JrmoIiumJ0/view?usp=drive_link)
-[![Facebook](https://img.shields.io/badge/GoogleDrive-Temario_PDF-yellow?logo=Googledrive&logoColor=yellow
-)](https://drive.google.com/file/d/1LlEzeGJvEXrDNzB9wr1nmYjRkdT9Bbfg/view?usp=drive_link)
+[![Facebook](https://img.shields.io/badge/GoogleDrive-Temario_PDF-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
+
 
 <p align="center">
 <img src="build\img\3D.png" width="100%" height="70%">
