@@ -28,7 +28,8 @@ de aprender y mejorar.
 
 ## Planos de Detalle 
 
-Planos realizados en Tekla Structures
+###Planos realizados en Tekla Structures
+Los planos se pueden encontrar en el siguiente link
 
 [![Facebook](https://img.shields.io/badge/GoogleDrive-PLANOS_PDF-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
 
