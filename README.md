@@ -32,6 +32,10 @@ Planos realizados en Tekla Structures
 
 <p align="center">
 <img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
+<img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
+<img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
+<img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
+<img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
   
 </p>
 
