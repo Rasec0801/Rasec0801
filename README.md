@@ -5,7 +5,13 @@
 ---
 
 
-Soy estudiante de décimo ciclo de la carrera de Ingeniería Civil en la Universidad Peruana de Ciencias Aplicadas, posicionado en el tercio superior de mi promoción. Mi experiencia en el sector público incluye un desempeño de 3 meses como asistente de ingeniería, donde he demostrado habilidades técnicas y de gestión. Manejo diversos softwares especializados como Ms Project, Primavera P6, Ms Office, AutoCAD, Revit, Tekla Structures, SAP2000 y ETABS, y tengo conocimientos en Lean Construction para optimizar procesos en obras. Además, cuento con un nivel intermedio de inglés. Me distingo por mi proactividad, compromiso, capacidad de trabajo en equipo, orientación a resultados y deseo constante de aprender y mejorar.
+Soy estudiante de décimo ciclo de la carrera de Ingeniería Civil en la Universidad Peruana de Ciencias Aplicadas,
+posicionado en el tercio superior de mi promoción. Mi experiencia en el sector público incluye un desempeño de 
+3 meses como asistente de ingeniería, donde he demostrado habilidades técnicas y de gestión. Manejo diversos softwares 
+especializados como Ms Project, Primavera P6, Ms Office, AutoCAD, Revit, Tekla Structures, SAP2000 y ETABS, y tengo
+conocimientos en Lean Construction para optimizar procesos en obras. Además, cuento con un nivel intermedio de inglés. 
+Me distingo por mi proactividad, compromiso, capacidad de trabajo en equipo, orientación a resultados y deseo constante 
+de aprender y mejorar.
 
 
 <p align="center">
