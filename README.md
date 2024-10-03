@@ -26,9 +26,9 @@ de aprender y mejorar.
 
 
 
-## Planos de Detalle en Ingeniería Estructural
+## Planos de Detalle 
 
-Detalles Estructurales realizados en Revit de diversos proyectos
+Planos realizados en Tekla Structures
 
 <p align="center">
 <img src="assets\img\detalle 4.jpg" width="48%" height="100%">
