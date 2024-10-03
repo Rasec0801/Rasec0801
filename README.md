@@ -6,12 +6,12 @@
 
 <p align="center">
   
-<img src="assets\img\autocad logo1.png" width="6.65%" height="10%">
-<img src="assets\img\revit logo.png" width="7.6%" height="10%">
+<img src="build\img\autocad logo1.png" width="6.65%" height="10%">
+<img src="build\img\revit logo.png" width="7.6%" height="10%">
 <img src="build\img\tekla.png" width="12.5%" height="10%">
-<img src="assets\img\etabs logo.png" width="6%" height="10%">
-<img src="assets\img\sap2000 logo.png" width="6%" height="10%">
-<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="build\img\etabs logo.png" width="6%" height="10%">
+<img src="build\img\sap2000 logo.png" width="6%" height="10%">
+<img src="build\img\python logo.png" width="6%" height="10%">
 
 
 </p>
