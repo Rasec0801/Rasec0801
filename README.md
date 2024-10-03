@@ -20,19 +20,6 @@ Una de las ventajas más significativas para los ingenieros estructurales que po
 
 Mediante la integración de técnicas de programación, es posible automatizar múltiples procesos, reduciendo así el tiempo invertido en tareas repetitivas y minimizando la probabilidad de errores humanos. Esta automatización no solo mejora la eficiencia, sino que también permite a los ingenieros dedicar más tiempo a aspectos críticos del diseño, análisis y optimización estructural.
 
-## **Cursos Python**
-
-[![Facebook](https://img.shields.io/badge/Facebook-Post_Facebook-blue?logo=Facebook&logoColor=#0A66C2)](https://www.facebook.com/share/p/DpsU4SCpCZ7SbFwS/)
-[![Facebook](https://img.shields.io/badge/Facebook-Post_Facebook-blue?logo=Facebook&logoColor=#0A66C2)](https://www.facebook.com/share/p/WofE1Lixi5LZhjJH/)
-
-[![Facebook](https://img.shields.io/badge/GoogleDrive-Temario_PDF-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/file/d/1EMGVSoM2K8SJGKE4MJ2MZ2JrmoIiumJ0/view?usp=drive_link)
-[![Facebook](https://img.shields.io/badge/GoogleDrive-Temario_PDF-yellow?logo=Googledrive&logoColor=yellow
-)](https://drive.google.com/file/d/1LlEzeGJvEXrDNzB9wr1nmYjRkdT9Bbfg/view?usp=drive_link)
-
-<p align="center">
-<img src="assets\img\Curso API Etabs.jpg" width="46%" >
-<img src="assets\img\Curso Python.jpg" width="50%">
-</p>
 
 
 
