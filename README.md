@@ -34,9 +34,9 @@ Planos realizados en Tekla Structures
 <img src="build\img\3D.png" width="100%" height="70%">
 <img src="build\img\det1.PNG" width="48%" height="50%">
 <img src="build\img\det2.PNG" width="48%" height="50%">
-<img src="build\img\det3.PNG" width="48%" height="50%">
-<img src="build\img\det4.PNG" width="50%" height="70%">
-<img src="build\img\det5.PNG" width="50%" height="70%">
+<img src="build\img\det3.PNG" width="50%" height="50%">
+<img src="build\img\det4.PNG" width="49%" height="70%">
+<img src="build\img\det5.PNG" width="49%" height="70%">
 <img src="build\img\det6.PNG" width="100%" height="70%">
 <img src="build\img\det7.PNG" width="100%" height="70%">
 <img src="build\img\CESAR AVILA.jpg" width="100%" height="70%">
